@@ -4,5 +4,5 @@
 5555555555555
 66666666666
 7777777777777
-Create a new branch is quick AND simple.
+Create a new branch is quick & simple.
 on branch dev.
